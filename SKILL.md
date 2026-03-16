@@ -1,5 +1,5 @@
 ---
-name: reading-forums
+name: forums
 description: Use when building scrapers to extract and index forum discussions, blog posts, or community content into markdown files with postgres/vector search integration. Triggers on requests to scrape, sync, index, or extract forum content.
 ---
 
